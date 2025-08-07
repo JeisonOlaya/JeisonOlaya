@@ -1,5 +1,5 @@
 # 👋 Hola, soy Jeison Olaya
-<img src="https://github.com/JeisonOlaya/JeisonOlaya/blob/main/Retrato.png?raw=true" alt="Jeison Olaya Banner" width="30%" />
+<img src="https://github.com/JeisonOlaya/JeisonOlaya/blob/main/Retrato.png?raw=true" alt="Jeison Olaya Banner" width="20%" />
 Soy desarrollador en formación con enfoque en la creación de experiencias digitales modernas, eficientes y con buena estructura. Me interesa el diseño claro, el código limpio y seguir buenas prácticas para el desarrollo web y de software.
 
 🎓 Actualmente estudio en el ITM y pertenezco a **RIWI** donde soy un coder que refuerza sus habilidades y conocimientos todos los días.
