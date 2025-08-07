@@ -26,8 +26,8 @@ Soy desarrollador en formación con enfoque en la creación de experiencias digi
 
 | Proyecto              | Descripción                                                     | Tecnologías      | Enlace                         |
 |-----------------------|-----------------------------------------------------------------|------------------|----------------------------------|
-| **Tienda de moto**    | Sitio web personal donde muestro mis proyectos y habilidades.   | HTML, CSS, JS    |(https://jeisonolaya.github.io/html-semantico-webpage/)|
-| **CRUDYGAME**         | Aplicación de consola para gestionar datos utilizando Python.   | Python           |jeisonolaya.github.io/CRUDY-GAME/                      |
+| **Tienda de moto**    | Sitio web personal donde muestro mis proyectos y habilidades.   | HTML, CSS, JS    |https://jeisonolaya.github.io/html-semantico-webpage/  |
+| **CRUDYGAME**         | Aplicación de consola para gestionar datos utilizando Python.   | Python           |https://jeisonolaya.github.io/CRUDY-GAME/              |
 | **Festiva cucaracho** | Página web simulando una tienda con carrito funcional.          | HTML, CSS, JS    |https://jmoralesnunez.github.io/Web_feria/             |
 
 ---
