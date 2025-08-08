@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jeison Olaya
 Soy desarrollador en formación con enfoque en la creación de experiencias digitales modernas, eficientes y con buena estructura. Me interesa el diseño claro, el código limpio y seguir buenas prácticas para el desarrollo web y de software.
 
-🎓 Actualmente estudio en el ITM y pertenezco a **RIWI** donde soy un coder que refuerza sus habilidades y conocimientos todos los días.
+🎓 Actualmente estudio en el ITM y pertenezco a **RIWI** donde soy un *"coder"* que refuerza sus habilidades y conocimientos todos los días.
 
 ---
 
